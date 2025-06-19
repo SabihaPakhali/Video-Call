@@ -8,7 +8,9 @@
          <div className='landingPageContainer'>
              <nav>
                  <div className='navHeader'>
-                     <h2>Video Call</h2>
+                     <h2>Video Call</h2> 
+                     return <h1>✅ Landing Page is Working</h1>;
+
                  </div>
                  <div className='navlist'>
                      <p onClick={() => {
